@@ -1,4 +1,4 @@
-<p align="justify"><h2>1. O artigo <a href="https://arxiv.org/abs/2502.16139">An Improved Deep Learning Model for Word Embeddings Based Clustering for Large Text Datasets</a> 
+<p align="justify"><h2>1. O artigo <a href="https://arxiv.org/abs/2502.16139">An Improved Deep Learning Model for Word Embeddings Based Clustering for Large Text Datasets</h2></p>
 
 <p align="justify">
 Este projeto implementa uma arquitetura inspirada em mecanismos de <b>memória online</b> acoplados ao Transformer, onde cada cabeça de atenção possui sua própria memória treinável e atualizada dinamicamente durante o <i>forward pass</i>. A proposta aproxima conceitos discutidos em trabalhos recentes sobre memória associativa contínua e adaptação online sem necessidade de <i>backpropagation</i> completo para atualização da memória.
