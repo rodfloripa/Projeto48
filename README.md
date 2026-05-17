@@ -1,4 +1,4 @@
-<p align="justify"><h2>1. Artigo <a href="https://arxiv.org/abs/2502.16139"> Memória online eficiente para grandes modelos de linguagem</h2></p>
+<p align="justify"><h2>1. Artigo: <a href="https://arxiv.org/abs/2605.12357"> Memória online eficiente para grandes modelos de linguagem</h2></p>
 
 <p align="justify">
 Este projeto implementa uma arquitetura inspirada em mecanismos de <b>memória online</b> acoplados ao Transformer, onde cada cabeça de atenção possui sua própria memória treinável e atualizada dinamicamente durante o <i>forward pass</i>. A proposta aproxima conceitos discutidos em trabalhos recentes sobre memória associativa contínua e adaptação online sem necessidade de <i>backpropagation</i> completo para atualização da memória.
